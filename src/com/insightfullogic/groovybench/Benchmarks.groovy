@@ -4,7 +4,9 @@ class Benchmarks {
 
     public static void main(String[] args) {
         [
-            new Fibonacci()
+            new Fibonacci(),
+            new FibonacciNoTypes(),
+            new StaticFibonacci(),
         ].each { benchmark ->
             benchmark.warmup()
 

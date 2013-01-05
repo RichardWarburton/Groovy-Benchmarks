@@ -5,9 +5,12 @@
     <ignored path="GroovyBenchmarks.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Benchmark.groovy" changelist="9b7420b0-a023-4b98-af02-573ce612f0b8" time="1357346143392" ignored="false" />
-    <file path="/Benchmarks.groovy" changelist="9b7420b0-a023-4b98-af02-573ce612f0b8" time="1357346233194" ignored="false" />
+    <file path="/Benchmarks.groovy" changelist="9b7420b0-a023-4b98-af02-573ce612f0b8" time="1357346936027" ignored="false" />
     <file path="/Fibonacci.groovy" changelist="9b7420b0-a023-4b98-af02-573ce612f0b8" time="1357346501870" ignored="false" />
     <file path="/*.regexp" changelist="9b7420b0-a023-4b98-af02-573ce612f0b8" time="1357346133648" ignored="false" />
+    <file path="/fragment.java" changelist="9b7420b0-a023-4b98-af02-573ce612f0b8" time="1357346873862" ignored="false" />
+    <file path="/StaticFibonacci.groovy" changelist="9b7420b0-a023-4b98-af02-573ce612f0b8" time="1357346862482" ignored="false" />
+    <file path="/FibonacciNoTypes.groovy" changelist="9b7420b0-a023-4b98-af02-573ce612f0b8" time="1357346913087" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,19 +78,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Benchmarks.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Benchmarks.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/Benchmarks.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="25" selection-start="84" selection-end="88" vertical-scroll-proportion="0.0">
+            <state line="20" column="4" selection-start="499" selection-end="499" vertical-scroll-proportion="0.52910054">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fibonacci.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Fibonacci.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/Fibonacci.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.13227513">
+            <state line="1" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticFibonacci.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/StaticFibonacci.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FibonacciNoTypes.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/FibonacciNoTypes.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="4" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,8 +125,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/com/insightfullogic/groovybench/Benchmark.groovy" />
-        <option value="$PROJECT_DIR$/src/com/insightfullogic/groovybench/Benchmarks.groovy" />
         <option value="$PROJECT_DIR$/src/com/insightfullogic/groovybench/Fibonacci.groovy" />
+        <option value="$PROJECT_DIR$/src/com/insightfullogic/groovybench/StaticFibonacci.groovy" />
+        <option value="$PROJECT_DIR$/src/com/insightfullogic/groovybench/FibonacciNoTypes.groovy" />
+        <option value="$PROJECT_DIR$/src/com/insightfullogic/groovybench/Benchmarks.groovy" />
       </list>
     </option>
   </component>
@@ -196,6 +219,11 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.insightfullogic.groovybench" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Benchmarks">
     <configuration default="false" name="Benchmarks" type="Application" factoryName="Application" temporary="true">
@@ -428,6 +456,20 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/Fibonacci.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/StaticFibonacci.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/Benchmark.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="34" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0">
@@ -435,16 +477,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/Benchmarks.groovy">
+    <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/FibonacciNoTypes.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="25" selection-start="84" selection-end="88" vertical-scroll-proportion="0.0">
+        <state line="9" column="4" selection-start="181" selection-end="181" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/Fibonacci.groovy">
+    <entry file="file://$PROJECT_DIR$/src/com/insightfullogic/groovybench/Benchmarks.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.13227513">
+        <state line="20" column="4" selection-start="499" selection-end="499" vertical-scroll-proportion="0.52910054">
           <folding />
         </state>
       </provider>

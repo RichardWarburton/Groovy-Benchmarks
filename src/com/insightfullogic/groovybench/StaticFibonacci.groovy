@@ -1,6 +1,9 @@
 package com.insightfullogic.groovybench
 
-class Fibonacci extends Benchmark {
+import groovy.transform.CompileStatic
+
+@CompileStatic
+class StaticFibonacci extends Benchmark {
 
     @Override
     def warmup() {
@@ -19,4 +22,5 @@ class Fibonacci extends Benchmark {
         else
             return fib(n - 1) + fib(n - 2);
     }
+
 }

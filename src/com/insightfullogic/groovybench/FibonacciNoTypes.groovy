@@ -1,6 +1,6 @@
 package com.insightfullogic.groovybench
 
-class Fibonacci extends Benchmark {
+class FibonacciNoTypes extends Benchmark {
 
     @Override
     def warmup() {
@@ -13,7 +13,7 @@ class Fibonacci extends Benchmark {
         return fib(45)
     }
 
-    int fib(int n) {
+    def fib(n) {
         if (n <= 1)
             return 1
         else
